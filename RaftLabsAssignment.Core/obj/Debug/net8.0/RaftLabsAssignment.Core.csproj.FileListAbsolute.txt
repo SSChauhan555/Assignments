@@ -1,0 +1,12 @@
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.csproj.AssemblyReference.cache
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.AssemblyInfoInputs.cache
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.AssemblyInfo.cs
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.csproj.CoreCompileInputs.cache
+D:\Assignment\RaftLabsAssignment.Core\bin\Debug\net8.0\RaftLabsAssignment.Core.deps.json
+D:\Assignment\RaftLabsAssignment.Core\bin\Debug\net8.0\RaftLabsAssignment.Core.dll
+D:\Assignment\RaftLabsAssignment.Core\bin\Debug\net8.0\RaftLabsAssignment.Core.pdb
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.dll
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\refint\RaftLabsAssignment.Core.dll
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\RaftLabsAssignment.Core.pdb
+D:\Assignment\RaftLabsAssignment.Core\obj\Debug\net8.0\ref\RaftLabsAssignment.Core.dll
